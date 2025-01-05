@@ -1,0 +1,14 @@
+package rockSample;
+
+public class RockSample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int[][] ranges = {{10.20},{10,20,30}};
+		rockSample(ranges);
+	}
+	public static void rockSample(int ranges[][]) {
+		System.out.println(ranges.length);
+	}
+
+}

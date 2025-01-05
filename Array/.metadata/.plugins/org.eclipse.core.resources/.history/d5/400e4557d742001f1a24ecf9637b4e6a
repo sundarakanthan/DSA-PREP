@@ -1,0 +1,10 @@
+package chocolateConveyor;
+
+public class ConveyorBelt {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

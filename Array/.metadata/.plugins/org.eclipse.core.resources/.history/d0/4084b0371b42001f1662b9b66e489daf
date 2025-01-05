@@ -1,0 +1,16 @@
+package isSubset;
+
+import java.util.Arrays;
+
+public class isSubArray {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public static void isSubset(int arr1[],int arr2[]) {
+		 Arrays.sort(arr1);
+		 Arrays.sort(arr2);
+	}
+}
